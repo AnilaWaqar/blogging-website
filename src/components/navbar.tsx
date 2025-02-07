@@ -25,7 +25,7 @@ export default function Navbar() {
       {/* Logo */}
       <div className="text-xl font-bold">
         <Link href="/" className="text-light-accent dark:text-dark-accent">
-          MyBrand
+          AW Brandings
         </Link>
       </div>
 
